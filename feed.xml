@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Docs</title>
+    <link href="https://cmistech.github.io/Docs/feed.xml" rel="self" />
+    <link href="https://cmistech.github.io/Docs" />
+    <updated>2021-12-04T23:39:40+05:30</updated>
+    <author>
+        <name>Mahesh Jarange</name>
+    </author>
+    <id>https://cmistech.github.io/Docs</id>
+
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Mahesh Jarange</name>
+        </author>
+        <link href="https://cmistech.github.io/Docs/hello.html"/>
+        <id>https://cmistech.github.io/Docs/hello.html</id>
+
+        <updated>2021-12-04T23:39:40+05:30</updated>
+            <summary>
+                <![CDATA[
+                    We are creative digital marketing agency with expertise to grow any business that need proper guidance and a committed service.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">We are creative digital marketing agency with expertise to grow any business that need proper guidance and a committed service.</h2>
+            ]]>
+        </content>
+    </entry>
+</feed>

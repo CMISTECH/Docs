@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Docs",
+    "description": "",
+    "home_page_url": "https://cmistech.github.io/Docs",
+    "feed_url": "https://cmistech.github.io/Docs/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mahesh Jarange"
+    },
+    "items": [
+        {
+            "id": "https://cmistech.github.io/Docs/hello.html",
+            "url": "https://cmistech.github.io/Docs/hello.html",
+            "title": "Hello",
+            "summary": "We are creative digital marketing agency with expertise to grow any business that need proper guidance and a committed service.",
+            "content_html": "<h2 class=\"align-center\">We are creative digital marketing agency with expertise to grow any business that need proper guidance and a committed service.</h2>",
+            "author": {
+                "name": "Mahesh Jarange"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-04T23:39:40+05:30",
+            "date_modified": "2021-12-04T23:39:40+05:30"
+        }
+    ]
+}
